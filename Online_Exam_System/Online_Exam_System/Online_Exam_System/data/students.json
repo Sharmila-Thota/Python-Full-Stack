@@ -1,0 +1,12 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Rahul Sharma",
+        "email": "rahul@example.com"
+    },
+    {
+        "student_id": "S102",
+        "name": "Priya Verma",
+        "email": "priya@example.com"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "question": "What is the output of print(2 + 3 * 4)?",
+        "options": {"A": "20", "B": "14", "C": "24", "D": "9"},
+        "answer": "B",
+        "marks": 2
+    },
+    {
+        "id": 2,
+        "question": "Which keyword is used to define a function in Python?",
+        "options": {"A": "func", "B": "define", "C": "def", "D": "function"},
+        "answer": "C",
+        "marks": 2
+    },
+    {
+        "id": 3,
+        "question": "Which of these data types is immutable in Python?",
+        "options": {"A": "list", "B": "dict", "C": "set", "D": "tuple"},
+        "answer": "D",
+        "marks": 2
+    },
+    {
+        "id": 4,
+        "question": "Which built-in function returns the length of a list?",
+        "options": {"A": "size()", "B": "count()", "C": "length()", "D": "len()"},
+        "answer": "D",
+        "marks": 2
+    },
+    {
+        "id": 5,
+        "question": "Which symbol is used for a single-line comment in Python?",
+        "options": {"A": "//", "B": "#", "C": "/*", "D": "--"},
+        "answer": "B",
+        "marks": 2
+    }
+]
